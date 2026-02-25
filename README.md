@@ -1,3 +1,14 @@
+## 🔗 Data Analytics Portfolio
+
+This project is part of my Data Analytics portfolio.
+
+👉 View my complete GitHub portfolio here:
+https://github.com/Praneel22
+
+### Other Featured Projects
+- 📊 Retail Sales Data Analysis  
+  https://github.com/Praneel22/Superstore-Sales-Data-Analysis
+  
 # HR Employee Attrition Analysis
 
 ## 📊 Project Overview
