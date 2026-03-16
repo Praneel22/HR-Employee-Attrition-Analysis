@@ -40,9 +40,6 @@ IBM HR Analytics Employee Attrition Dataset
 - Income vs Attrition
 - Job Satisfaction Analysis
 
-## ✅ Output
-Cleaned dataset exported as:
-`HR_Attrition_Cleaned.csv`
 
 ## 🚀 Author
 **Praneel Reddy**
