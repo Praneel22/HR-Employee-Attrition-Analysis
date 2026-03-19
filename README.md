@@ -1,49 +1,66 @@
-## 🔗 Data Analytics Portfolio
-
-This project is part of my Data Analytics portfolio.
-
-👉 View my complete GitHub portfolio here:
-https://github.com/Praneel22
-
-### Other Featured Projects
-- 📊 Retail Sales Data Analysis  
-  https://github.com/Praneel22/Superstore-Sales-Data-Analysis
-  
 # HR Employee Attrition Analysis
 
-## 📊 Project Overview
-This project analyzes employee attrition patterns using HR analytics data to identify factors influencing employee turnover.
+## Project Overview
+This project studies why employees leave a company.  
+The goal is to understand employee attrition and find patterns in the data.
 
-## 🎯 Objective
-- Understand attrition trends
-- Identify high-risk employee groups
-- Analyze salary, department, and overtime impact
+## Objective
+- Understand why employees leave the company
+- Identify groups of employees with high attrition
+- Analyze the impact of salary, department, overtime, and job satisfaction
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
-- Seaborn
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
+- Excel
 
-## 📂 Dataset
+## Dataset
 IBM HR Analytics Employee Attrition Dataset
 
-## 📈 Key Insights
-- Overtime employees show higher attrition
-- Low job satisfaction increases resignation risk
-- Monthly income impacts retention
+The dataset includes information about employees such as:
+- Age
+- Department
+- Job Role
+- Salary
+- Job Satisfaction
+- Overtime
+- Attrition (Yes or No)
 
-## 📊 Visualizations
+## What I Did
+- Cleaned and prepared the dataset using Python and Pandas
+- Explored the data to find patterns related to employee attrition
+- Created charts to visualize important trends
+- Built an Excel dashboard to show key insights
+
+## Key Insights
+- Employees who work overtime leave the company more often
+- Employees with low job satisfaction have higher attrition
+- Employees with lower monthly income are more likely to leave
+
+## Visualizations
+The project includes charts such as:
 - Attrition Distribution
-- Department-wise Attrition
+- Attrition by Department
 - Income vs Attrition
-- Job Satisfaction Analysis
+- Job Satisfaction vs Attrition
 
+## Project Files
+- `HR_Employee_Attrition_Analysis.ipynb` – Python analysis
+- `HR_Attrition_Cleaned.csv` – Cleaned dataset
+- `HR_Employee_Attrition_Dashboard.xlsx` – Excel dashboard with charts and KPIs
 
-## ✅ Output
-Cleaned dataset exported as:
-`HR_Attrition_Cleaned.csv`
+## Data Analytics Portfolio
+This project is part of my Data Analytics portfolio.
 
-## 🚀 Author
-**Praneel Reddy**
+View my GitHub:
+https://github.com/Praneel22
+
+### Other Project
+Retail Sales Data Analysis  
+https://github.com/Praneel22/Superstore-Sales-Data-Analysis
+
+## Author
+Praneel Reddy
