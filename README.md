@@ -41,6 +41,7 @@ The dataset includes information about employees such as:
 - Employees with lower monthly income are more likely to leave
 
 ## Visualizations
+https://public.tableau.com/app/profile/praneel.reddy.kanduri/viz/HR_Employee_Attrition_twbx/HREmployeeAttritionAnalysisDashboard
 The project includes charts such as:
 - Attrition Distribution
 - Attrition by Department
